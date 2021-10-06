@@ -30,6 +30,6 @@ print(driver.title)
 print(driver.current_url)
 print(driver.add_cookie)
 print(driver.current_url)
-
+print("斑马")
 driver.close()
 driver.quit()
